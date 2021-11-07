@@ -1,6 +1,6 @@
 {
   "name": "release-branches-spike",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "repository": "https://github.com/timbset/release-branches-spike",
   "author": "timbset <timbset@gmail.com>",
